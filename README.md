@@ -12,7 +12,7 @@
 ---
 
 ## 📂 Projects
--  – simple console-based app using smart pointers and STL
+- (https://github.com/gabriel-san23/shoppingList#) – simple console-based app using smart pointers and STL
 - (More coming soon...)
 
 ---
