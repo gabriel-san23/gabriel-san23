@@ -26,5 +26,5 @@
 
 
 ## 🤝 Let's Connect
-- 💼 [LinkedIn](www.linkedin.com/in/gabriel-santos-753479290)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-santos-753479290/)
 - 📧 gabriel.sgalvao23@gmail.com  
