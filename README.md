@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I'm Gabriel  
 
-<!--
-**gabriel-san23/gabriel-san23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computing Engineering student passionate about **low-level programming**, **C++**, and exploring how computers really work under the hood.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+- **Languages**: C++17, Assembly, SQL  
+- **Concepts**: Data Structures, Algorithms, Computer Architecture  
+- **Tools**: Linux, Git/GitHub, Neovim  
+
+---
+
+## 📂 Projects
+-  – simple console-based app using smart pointers and STL
+- (More coming soon...)
+
+---
+
+## 🌱 Currently Learning
+- Assembly programming  
+- Advanced data structures in C++  
+- Debugging & performance optimization  
+
+---
+
+
+## 🤝 Let's Connect
+- 💼 [LinkedIn](www.linkedin.com/in/gabriel-santos-753479290)
+- 📧 gabriel.sgalvao23@gmail.com  
