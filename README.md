@@ -5,9 +5,9 @@
 ---
 
 ## 🛠️ Tech & Tools
-- **Languages**: C++17, Assembly, SQL  
-- **Concepts**: Data Structures, Algorithms, Computer Architecture  
-- **Tools**: Linux, Git/GitHub, Neovim  
+- **Languages**: C++17, VBA, SQL  
+- **Concepts**: Data Structures, Algorithms, Computer Architecture
+- **Tools**: Linux, Windows, Git/GitHub, Excel 
 
 ---
 
@@ -18,9 +18,10 @@
 ---
 
 ## 🌱 Currently Learning
-- Assembly programming  
+- VBA
 - Advanced data structures in C++  
-- Debugging & performance optimization  
+- Debugging & performance optimization
+- SQL
 
 ---
 
